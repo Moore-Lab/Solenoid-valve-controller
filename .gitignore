@@ -1,0 +1,17 @@
+# PlatformIO
+Valve-controller/.pio/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
